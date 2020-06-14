@@ -1,2 +1,2 @@
-# python_exercises
-My exercises related to Python learning process.
+# My Python Studies
+My python's studies and exercises. 
